@@ -29,7 +29,9 @@ Key features
 
  [CIT Resewn](https://modrinth.com/mod/cit-resewn/versions)    Custom item textures
 
-[CIMS ADD-ONS ARE ON PLANT MINECRAFT FOR RIGHT NOW](https://www.planetminecraft.com/member/deadbushcarrot/)
+[CIMS ADD-ONS ARE ON PLANT MINECRAFT AND MODRINTH FOR RIGHT NOW](https://www.planetminecraft.com/member/deadbushcarrot/)
+
+Curseforge is a pain in the but to port stuff to
 
 
 
