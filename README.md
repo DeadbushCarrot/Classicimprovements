@@ -1,3 +1,5 @@
+## This for my Texture/Resource pack Classic improvements Am not perfect so some bugs will slip into my pack so try and help me find them!
+
 # Classic Improvements
 Classic Improvements is a Resource packs dedicated to making modern Minecraft more useable with programmer art
 
